@@ -12,5 +12,5 @@ An interactive Excel dashboard built to analyze bike purchase data, revealing ke
 - **Microsoft Excel:** Pivot Tables, XLOOKUP, Slicers, Conditional Formatting
 
 ## Project Files
-- [Bike_Sales_Dashboard.xlsx](Bike_Sales_Dashboard.xlsx) - The main interactive Excel workbook.
-- `Bike_Sales_Data.csv` - The raw dataset used for analysis.
+- [Bike Sales Analysis Dashboard.xlsx](https://github.com/user-attachments/files/22203214/Bike.Sales.Analysis.Dashboard.xlsx) - The main interactive Excel workbook.
+- [Excel Project Dataset.xlsx](https://github.com/user-attachments/files/22203263/Excel.Project.Dataset.xlsx)  - The raw dataset used for analysis.
