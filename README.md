@@ -1,4 +1,4 @@
-# Bike Sales Analysis Dashboard (Excel)
+# Bike Sales Analysis (Excel)
 
 ## Overview
 An interactive Excel dashboard built to analyze bike purchase data, revealing key customer demographic and income patterns to inform targeted marketing strategies.
